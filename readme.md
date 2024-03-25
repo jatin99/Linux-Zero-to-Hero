@@ -1,4 +1,5 @@
-# Linux Zero to Hero with Jatin
+# 🐧 Linux Zero to Hero with Jatin
+![alt text](https://raw.githubusercontent.com/jatin99/MediaContent/main/Thumbnails/LinuxZeroToHero.png)
 
 Hey Friends this is Jatin Here... And Welcome to the Linux Zero to Hero course with Jatin! In this Mega Course comprehensive guide, you will learn everything you need to know about Linux commands over the span of 5 days which is absolutely for Free!!
 
@@ -38,7 +39,7 @@ You can also Connect with me on Linked in:
 
 ### Day 5: Advanced Topics and Review
 - **Advanced Topics**: Delve into advanced Linux concepts such as kernel management, virtualization, containers, and more.
-- **Review**: Recap the key concepts learned throughout the course and practice with additional exercises.
+
 
 ## Prerequisites
 
@@ -48,20 +49,17 @@ You can also Connect with me on Linked in:
 ## How to Use This Repository
 
 - Each day's content is organized into separate folders.
-- Inside each folder, you'll find lecture notes, code examples, exercises, and additional resources.
+- Inside each folder, you'll find lecture notes examples, exercises, and additional resources.
 - Follow along with the lectures, complete the exercises, and practice what you learn in a Linux environment.
 
 ## Support
 
-If you have any questions or need assistance, feel free to reach out to Jatin via email at jatin@example.com.
+If you have any questions or need assistance, feel free to reach out to Jatin on [LinkedIn](https://www.linkedin.com/in/jatinshharma/)
 
 ## Contributions
 
 If you find any errors or have suggestions for improvement, please submit an issue or a pull request. Your contributions are greatly appreciated!
 
-## About Jatin
-
-Jatin is a seasoned Linux administrator with over 10 years of experience. He is passionate about teaching and sharing his knowledge with others. You can connect with him on LinkedIn and Twitter.
 
 ## Disclaimer
 
