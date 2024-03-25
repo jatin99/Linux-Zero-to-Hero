@@ -19,6 +19,7 @@ date
 ### 3. pwd
 Usage: Prints the present working directory.
 Example:
+```bash
 bash
  
 pwd
