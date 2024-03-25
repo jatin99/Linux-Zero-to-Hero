@@ -1,6 +1,6 @@
 # Day 1: Essential Linux Commands
 
-Welcome to Day 1 of the Linux Zero to Hero course with Jatin! Today, we'll embark on an exploration of fundamental Linux commands critical for every beginner's toolkit. Let's dive right in:
+Welcome to Day 1 of the Linux Zero to Hero course with Jatin! Today, understand basic fundamental Linux commands. Let's dive right in:
 
 ## Commands Covered:
 
