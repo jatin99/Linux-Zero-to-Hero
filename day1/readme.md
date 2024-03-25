@@ -20,7 +20,7 @@ date
 Usage: Prints the present working directory.
 Example:
 ```bash
-bash
+
  
 pwd
 ```
