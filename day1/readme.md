@@ -40,3 +40,7 @@ Welcome to Day 1 of the Linux Zero to Hero course with Jatin! Today, we will foc
 ## Usage Examples:
 
 1. To see the current user:
+````markdown
+```bash
+# Terminal command
+whoami
