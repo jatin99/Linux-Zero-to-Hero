@@ -1,4 +1,4 @@
-#Day2 - Linux Command Notes
+# Day2 - Linux Command Notes
 
 1. **cp (Copy)**
    - **Syntax:** `cp [options] source destination`
